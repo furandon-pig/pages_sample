@@ -8,7 +8,9 @@ var vm = new Vue({
   },
   methods: {
     btn_click: function() {
-      url = `${location.href}/data.json`;
+      //url = `${location.href}/data.json`;
+      url = `https://furandon-pig.github.io/pages_sample/data.json`;
+      console.log(url);
       fetch(url)
       .then((response) => { return response.json(); })
       .then((json) => {
