@@ -1,3 +1,3 @@
- * GitHub Pages$B$N<B83MQ%j%]%8%H%j$G$9!#(B
+ * GitHub Pagesの実験用リポジトリです。
  * [https://furandon-pig.github.io/pages_sample/](https://furandon-pig.github.io/pages_sample/)
 
